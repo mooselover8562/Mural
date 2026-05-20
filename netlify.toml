@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/callback"
-  to = "/.netlify/functions/spotify-callback"
+  to = "/.netlify/functions/spotifyCallback"
   status = 200
