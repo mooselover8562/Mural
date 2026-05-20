@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/callback"
+  to = "/.netlify/functions/spotify-callback"
+  status = 200
