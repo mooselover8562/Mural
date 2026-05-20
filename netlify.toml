@@ -1,3 +1,6 @@
+[build]
+  ignore = "Mural.dmg"
+
 [[redirects]]
   from = "/callback"
   to = "/.netlify/functions/spotify-callback"
